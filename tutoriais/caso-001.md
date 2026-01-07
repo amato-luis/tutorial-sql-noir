@@ -70,3 +70,6 @@ Com a descrição física do suspeito em mãos (**homem, sobretudo, cicatriz na 
 
 ---
 *Este tutorial é uma iniciativa de Luís Amato para democratizar o ensino de SQL através da gamificação.*
+
+---
+[⬅️ Voltar para a página principal](../README.md) | [Próximo Caso (Em breve) ➡️](#)
