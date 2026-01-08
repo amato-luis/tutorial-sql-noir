@@ -25,3 +25,19 @@ O projeto ganhou destaque na comunidade de dados após o endosso público do aut
 **Luís Amato**  
 *Analista de Dados & BI | Bacharel em Ciência da Computação*  
 [LinkedIn](https://linkedin.com/in/luis-amato) | [GitHub](https://github.com/amato-luis)
+
+---
+
+## ⚖️ Licença e Oportunidades Comerciais
+
+Copyright © 2025 **Luís Amato**. Todos os direitos reservados.
+
+Este conteúdo está protegido sob a licença **CC BY-NC-ND 4.0** (Atribuição-NãoComercial-SemDerivações).
+
+### 💼 Uso Comercial e Parcerias
+Embora o uso gratuito seja incentivado para fins educacionais e pessoais, este projeto está aberto a licenciamento comercial e parcerias remuneradas para:
+- 🏢 **Treinamentos Corporativos:** Implementação da metodologia em equipes de dados.
+- 🎓 **Plataformas de Ensino:** Inclusão do tutorial em cursos e trilhas de aprendizado pagas.
+- 📝 **Publicações:** Reprodução em portais, newsletters ou revistas de tecnologia.
+
+**
