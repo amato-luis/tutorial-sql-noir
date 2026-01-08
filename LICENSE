@@ -1,29 +1,56 @@
 Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)
 Copyright (c) 2025 Luís Amato. Todos os direitos reservados.
 
----
+===============================================================================
+1. SOBRE ESTA LICENÇA
+===============================================================================
+Este trabalho (Tutorial SQL Noir) está licenciado sob a Licença Creative Commons 
+Atribuição-NãoComercial-SemDerivações 4.0 Internacional. 
 
-1. DESCRIÇÃO DA LICENÇA
-Este trabalho (Tutorial SQL Noir) está licenciado sob a Licença Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional. 
-
-Para visualizar uma cópia desta licença, visite:
+Para visualizar uma cópia oficial desta licença, visite:
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR
 
-2. TERMOS DE USO GRATUITO (EDUCACIONAL)
+===============================================================================
+2. NOTA DE ATRIBUIÇÃO E CONFORMIDADE (MIT COMPLIANCE)
+===============================================================================
+Este tutorial é uma obra intelectual independente criada por Luís Amato, baseada 
+na plataforma e jogo "SQL Noir" (sqlnoir.com), de autoria de Hristo Bogoev. 
+
+O autor deste tutorial reconhece e respeita os direitos autorais do software 
+original, que é distribuído sob a Licença MIT. Esta obra não redistribui o 
+código-fonte do jogo, mas fornece uma camada original de ensino, lógica 
+investigativa e didática aplicada.
+
+===============================================================================
+3. TERMOS DE USO GRATUITO (EDUCACIONAL)
+===============================================================================
 Você tem a liberdade de:
-- Compartilhar: Copiar e redistribuir o material em qualquer suporte ou formato para fins estritamente educacionais e pessoais.
+- Compartilhar: Copiar e redistribuir o material em qualquer suporte ou formato 
+  para fins estritamente educacionais, de estudo pessoal e não lucrativos.
 
 Sob as seguintes condições:
-- Atribuição: Você deve dar o crédito apropriado ao autor (Luís Amato), prover um link para este repositório original e indicar se mudanças foram feitas (embora mudanças não sejam permitidas para redistribuição).
-- Não Comercial: Você não pode usar o material para fins comerciais ou lucrativos sem autorização prévia.
-- Sem Derivações: Se você remixar, transformar ou criar a partir do material, você não pode distribuir o material modificado.
+- Atribuição: Você deve dar o crédito apropriado ao autor (Luís Amato) e 
+  prover um link para este repositório original.
+- Não Comercial: Você não pode usar o material para fins comerciais ou 
+  lucrativos sem autorização prévia.
+- Sem Derivações: Se você remixar, transformar ou criar a partir do material, 
+  você não pode distribuir o material modificado.
 
-3. CLÁUSULA DE USO COMERCIAL E REMUNERAÇÃO
-O uso deste material para fins comerciais — incluindo, mas não se limitando a: treinamentos corporativos pagos, inclusão em cursos de plataformas de ensino (EAD), publicações em portais monetizados ou consultorias — está CONDICIONADO à autorização prévia e por escrito do autor e ao pagamento de remuneração adequada a ser negociada entre as partes.
+===============================================================================
+4. CLÁUSULA DE USO COMERCIAL E REMUNERAÇÃO
+===============================================================================
+O uso deste material para fins comerciais — incluindo, mas não se limitando a: 
+treinamentos corporativos, inclusão em cursos de plataformas de ensino (EAD), 
+publicações em portais monetizados ou consultorias — está CONDICIONADO à 
+autorização prévia por escrito do autor e ao pagamento de REMUNERAÇÃO ADEQUADA 
+a ser negociada entre as partes.
 
-Para propostas de licenciamento comercial, parcerias ou uso institucional, entre em contato através dos canais oficiais:
+Para propostas de licenciamento comercial ou parcerias, entre em contato:
 - LinkedIn: https://linkedin.com/in/luis-amato
 - E-mail: luis.amato88@gmail.com
 
-4. ISENÇÃO DE RESPONSABILIDADE
-O autor fornece este material "no estado em que se encontra" e não oferece garantias de qualquer tipo sobre a precisão ou adequação do conteúdo para fins específicos. Em nenhum caso o autor será responsável por quaisquer danos decorrentes do uso deste tutorial.
+===============================================================================
+5. ISENÇÃO DE RESPONSABILIDADE
+===============================================================================
+O autor fornece este material "no estado em que se encontra". Em nenhum caso o 
+autor será responsável por quaisquer danos decorrentes do uso deste tutorial.
