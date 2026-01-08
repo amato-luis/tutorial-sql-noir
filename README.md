@@ -28,16 +28,35 @@ O projeto ganhou destaque na comunidade de dados após o endosso público do aut
 
 ---
 
+---
+
 ## ⚖️ Licença e Oportunidades Comerciais
 
 Copyright © 2025 **Luís Amato**. Todos os direitos reservados.
 
-Este conteúdo está protegido sob a licença **CC BY-NC-ND 4.0** (Atribuição-NãoComercial-SemDerivações).
+Este conteúdo original está protegido sob a licença **CC BY-NC-ND 4.0** (Atribuição-NãoComercial-SemDerivações). 
+
+### 🤝 Conformidade e Atribuição (MIT Compliance)
+Este tutorial é uma obra independente que respeita integralmente os direitos autorais do jogo **SQL Noir**, criado por **Hristo Bogoev** e distribuído sob a **Licença MIT**. O foco deste repositório é a camada didática e a lógica investigativa aplicada.
 
 ### 💼 Uso Comercial e Parcerias
-Embora o uso gratuito seja incentivado para fins educacionais e pessoais, este projeto está aberto a licenciamento comercial e parcerias remuneradas para:
-- 🏢 **Treinamentos Corporativos:** Implementação da metodologia em equipes de dados.
-- 🎓 **Plataformas de Ensino:** Inclusão do tutorial em cursos e trilhas de aprendizado pagas.
+O uso gratuito é incentivado para fins educacionais e estudo pessoal. No entanto, este projeto está aberto a **licenciamento comercial e parcerias remuneradas** para:
+- 🏢 **Treinamentos Corporativos:** Implementação da metodologia em equipes de Analytics/BI.
+- 🎓 **Plataformas de Ensino:** Inclusão do tutorial em cursos, bootcamps e trilhas pagas.
 - 📝 **Publicações:** Reprodução em portais, newsletters ou revistas de tecnologia.
+
+**Interessados em licenciamento comercial ou parcerias remuneradas, favor entrar em contato para negociar os termos e a remuneração adequada.**
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
+
+---
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-amato)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.amato88@gmail.com)
+
+---
+*Este tutorial é uma iniciativa de Luís Amato para democratizar o ensino de SQL através da gamificação.*
 
 **
